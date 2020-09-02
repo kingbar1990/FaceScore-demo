@@ -1,0 +1,14 @@
+Images cropping: autocrop
+
+Face detection: deepface
+
+Age, gender, race and facial expression: deepface
+
+Face score: kerasBeauty
+
+Face feachures: faceDots
+
+
+Summary:
+    autocrop, deepface, kerasBeauty, faceDots
+
