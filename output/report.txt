@@ -1,57 +1,20 @@
+RobertDowney
+	age: 36.83759080456431 
+	gender: Man 
+	race: latino hispanic 
+	emotion: neutral 
+NataliePortman
+	age: 31.72040102131738 
+	gender: Woman 
+	race: white 
+	emotion: happy 
 JimCarrey
-	../input/JimCarrey/1.jpg 
-		emotion: {'angry': 0.04051210707984865, 'disgust': 0.01027253019856289, 'fear': 0.042701096390374005, 'happy': 91.6390061378479, 'sad': 1.562474574893713, 'surprise': 0.16438226448372006, 'neutral': 6.540652364492416} 
-		dominant_emotion: happy 
-		age: 37.31726209503407 
-		gender: Man 
-		race: {'asian': 0.10364475892856717, 'indian': 0.2646068576723337, 'black': 0.023897270148154348, 'white': 83.95222425460815, 'middle eastern': 7.51250684261322, 'latino hispanic': 8.143115043640137} 
-		dominant_race: white 
-	../input/JimCarrey/3.jpg 
-		emotion: {'angry': 2.5470148993372854e-10, 'disgust': 3.0452386063675488e-18, 'fear': 9.078015472858709e-13, 'happy': 99.99840259552002, 'sad': 4.679783470462606e-10, 'surprise': 1.1098528762687465e-07, 'neutral': 0.0015987616279744543} 
-		dominant_emotion: happy 
-		age: 26.532745237065356 
-		gender: Man 
-		race: {'asian': 8.276567356381856, 'indian': 1.8358777440117444, 'black': 0.2298229976637958, 'white': 54.69799367773495, 'middle eastern': 11.238098069316033, 'latino hispanic': 23.721642716028853} 
-		dominant_race: white 
-	../input/JimCarrey/4.jpg 
-		emotion: {'angry': 0.44024394315372883, 'disgust': 0.001317419500096742, 'fear': 80.50341257513986, 'happy': 0.021357669355974083, 'sad': 13.609292556516985, 'surprise': 5.291705779738268, 'neutral': 0.13267054499382586} 
-		dominant_emotion: fear 
-		age: 41.03939409101858 
-		gender: Man 
-		race: {'asian': 6.657436490058899, 'indian': 10.072126984596252, 'black': 3.0162157490849495, 'white': 20.92246264219284, 'middle eastern': 31.547489762306213, 'latino hispanic': 27.78427004814148} 
-		dominant_race: middle eastern 
-	../input/JimCarrey/5.jpg 
-		emotion: {'angry': 0.09442875724606259, 'disgust': 0.0009215681169697637, 'fear': 0.03872140308671612, 'happy': 9.409882689111393, 'sad': 0.1454398239107325, 'surprise': 0.1548564270239429, 'neutral': 90.15574992631376} 
-		dominant_emotion: neutral 
-		age: 41.38079748062868 
-		gender: Man 
-		race: {'asian': 0.7003080565482378, 'indian': 12.81808316707611, 'black': 0.4587927367538214, 'white': 17.40880459547043, 'middle eastern': 53.361064195632935, 'latino hispanic': 15.252944827079773} 
-		dominant_race: middle eastern 
-	../input/JimCarrey/7.jpg 
-		emotion: {'angry': 12.91411966085434, 'disgust': 0.900436844676733, 'fear': 19.117239117622375, 'happy': 58.986467123031616, 'sad': 3.23508121073246, 'surprise': 0.5444384645670652, 'neutral': 4.302210360765457} 
-		dominant_emotion: happy 
-		age: 44.85425997476848 
-		gender: Man 
-		race: {'asian': 6.786871701478958, 'indian': 9.502394497394562, 'black': 2.052428387105465, 'white': 23.14816564321518, 'middle eastern': 21.335729956626892, 'latino hispanic': 37.17440962791443} 
-		dominant_race: latino hispanic 
-	../input/JimCarrey/8.jpg 
-		emotion: {'angry': 0.008051900658756495, 'disgust': 0.000139703115564771, 'fear': 0.14569989871233702, 'happy': 82.85555839538574, 'sad': 0.14243331970646977, 'surprise': 1.4620933681726456, 'neutral': 15.386021137237549} 
-		dominant_emotion: happy 
-		age: 24.2229768770201 
-		gender: Man 
-		race: {'asian': 0.14896407956257463, 'indian': 1.4337298460304737, 'black': 0.02674547431524843, 'white': 38.46108913421631, 'middle eastern': 35.032719373703, 'latino hispanic': 24.896754324436188} 
-		dominant_race: white 
-	../input/JimCarrey/9.jpg 
-		emotion: {'angry': 3.9030801504850388, 'disgust': 2.3566857354495596e-07, 'fear': 0.06562906200997531, 'happy': 0.025214048218913376, 'sad': 15.958137810230255, 'surprise': 2.0108352316583478e-06, 'neutral': 80.04794120788574} 
-		dominant_emotion: neutral 
-		age: 25.52772806468535 
-		gender: Man 
-		race: {'asian': 0.4624576307833195, 'indian': 1.2188345193862915, 'black': 0.06601685308851302, 'white': 56.31641745567322, 'middle eastern': 19.368261098861694, 'latino hispanic': 22.56801575422287} 
-		dominant_race: white 
-	../input/JimCarrey/10.jpg 
-		emotion: {'angry': 96.85854911804199, 'disgust': 0.08059226674959064, 'fear': 0.031362660229206085, 'happy': 2.3419061675667763, 'sad': 0.5920790135860443, 'surprise': 0.00043293512135278434, 'neutral': 0.09508078801445663} 
-		dominant_emotion: angry 
-		age: 38.51410742165097 
-		gender: Man 
-		race: {'asian': 0.039432678022421896, 'indian': 0.07452928111888468, 'black': 0.002232448969152756, 'white': 92.36422777175903, 'middle eastern': 4.9470242112874985, 'latino hispanic': 2.5725528597831726} 
-		dominant_race: white 
+	age: 34.92365890523395 
+	gender: Man 
+	race: white 
+	emotion: happy 
+WillSmith
+	age: 30.797788689065847 
+	gender: Man 
+	race: black 
+	emotion: happy 

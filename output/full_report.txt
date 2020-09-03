@@ -1,0 +1,270 @@
+RobertDowney
+	input/RobertDowney/1.jpeg 
+		emotion: {'angry': 0.7788007150529963, 'disgust': 4.192767854910273e-09, 'fear': 0.0001875784964010666, 'happy': 97.32921155342918, 'sad': 0.6248131115212308, 'surprise': 0.00010906321513618082, 'neutral': 1.2668832557638579} 
+		dominant_emotion: happy 
+		age: 50.73168972525506 
+		gender: Man 
+		race: {'asian': 0.8253345265984535, 'indian': 6.519746780395508, 'black': 0.26792336720973253, 'white': 29.303306341171265, 'middle eastern': 27.50934660434723, 'latino hispanic': 35.57434678077698} 
+		dominant_race: latino hispanic 
+	input/RobertDowney/10.png 
+		emotion: {'angry': 0.06315776845440269, 'disgust': 5.820911786434679e-11, 'fear': 0.0004063371306983754, 'happy': 0.01587855804245919, 'sad': 0.566723058000207, 'surprise': 7.489370013047392e-07, 'neutral': 99.35383200645447} 
+		dominant_emotion: neutral 
+		age: 45.61661099267123 
+		gender: Man 
+		race: {'asian': 3.1563863158226013, 'indian': 5.948500707745552, 'black': 1.2071570381522179, 'white': 31.592774391174316, 'middle eastern': 26.084282994270325, 'latino hispanic': 32.01090097427368} 
+		dominant_race: latino hispanic 
+	input/RobertDowney/2.jpg 
+		emotion: {'angry': 0.714540109038353, 'disgust': 2.1903375113652146e-06, 'fear': 0.39759567007422447, 'happy': 0.008058908861130476, 'sad': 6.0713030397892, 'surprise': 4.470114731702779e-05, 'neutral': 92.80845522880554} 
+		dominant_emotion: neutral 
+		age: 27.410996805439012 
+		gender: Man 
+		race: {'asian': 5.035987724183527, 'indian': 9.080737421600512, 'black': 0.9291149852114898, 'white': 18.131927327147405, 'middle eastern': 14.628421023895863, 'latino hispanic': 52.1938147775906} 
+		dominant_race: latino hispanic 
+	input/RobertDowney/3.jpeg 
+		emotion: {'angry': 52.6049017906189, 'disgust': 2.417582756208958e-06, 'fear': 0.19274589139968157, 'happy': 0.015350220201071352, 'sad': 22.390709817409515, 'surprise': 3.9853290445535094e-05, 'neutral': 24.796253442764282} 
+		dominant_emotion: angry 
+		age: 33.53338585146248 
+		gender: Man 
+		race: {'asian': 0.012672192706745428, 'indian': 0.018229586926003512, 'black': 0.0009381214672255087, 'white': 90.73923174972724, 'middle eastern': 4.713551608535743, 'latino hispanic': 4.515375838600149} 
+		dominant_race: white 
+	input/RobertDowney/4.jpg 
+		emotion: {'angry': 73.66359233856201, 'disgust': 1.0133162220427039e-05, 'fear': 1.6554202884435654, 'happy': 1.3777133077383041, 'sad': 3.5305310040712357, 'surprise': 0.0053294312237994745, 'neutral': 19.767406582832336} 
+		dominant_emotion: angry 
+		age: 36.46764225197323 
+		gender: Man 
+		race: {'asian': 7.911276072263718, 'indian': 8.801425248384476, 'black': 2.6066437363624573, 'white': 25.321227312088013, 'middle eastern': 18.678538501262665, 'latino hispanic': 36.68089210987091} 
+		dominant_race: latino hispanic 
+	input/RobertDowney/5.jpg 
+		emotion: {'angry': 22.51589745283127, 'disgust': 1.250755683919469e-10, 'fear': 0.0020270828827051446, 'happy': 1.3491491301920178e-05, 'sad': 12.850728631019592, 'surprise': 8.505066517727755e-06, 'neutral': 64.63133096694946} 
+		dominant_emotion: neutral 
+		age: 31.575324505961753 
+		gender: Man 
+		race: {'asian': 7.169963846800557, 'indian': 4.375111944980142, 'black': 1.9013620183683644, 'white': 33.96953844842544, 'middle eastern': 17.730041905048008, 'latino hispanic': 34.85398500287443} 
+		dominant_race: latino hispanic 
+	input/RobertDowney/6.jpg 
+		emotion: {'angry': 1.2701549393030964, 'disgust': 8.687763433919157, 'fear': 79.91629719235284, 'happy': 0.04685957089440202, 'sad': 8.112518227846516, 'surprise': 0.17416461943326111, 'neutral': 1.792240063383583} 
+		dominant_emotion: fear 
+		age: 31.106335482316165 
+		gender: Man 
+		race: {'asian': 1.4978344552218914, 'indian': 1.1073390953242779, 'black': 0.13895141892135143, 'white': 37.502503395080566, 'middle eastern': 8.148037642240524, 'latino hispanic': 51.605331897735596} 
+		dominant_race: latino hispanic 
+	input/RobertDowney/7.jpg 
+		emotion: {'angry': 16.695672773799036, 'disgust': 0.0002269857575370017, 'fear': 1.0207315261043937, 'happy': 2.4741788550232475, 'sad': 1.7046889459716017, 'surprise': 0.1332528931613735, 'neutral': 77.9712531532351} 
+		dominant_emotion: neutral 
+		age: 40.17469798369958 
+		gender: Man 
+		race: {'asian': 3.184552490711212, 'indian': 9.43189263343811, 'black': 1.5893461182713509, 'white': 25.214096903800964, 'middle eastern': 28.885936737060547, 'latino hispanic': 31.69417381286621} 
+		dominant_race: latino hispanic 
+	input/RobertDowney/8.jpeg 
+		emotion: {'angry': 4.821228592841441e-07, 'disgust': 4.019882108586348e-26, 'fear': 0.00241351659330778, 'happy': 3.171387224391231e-11, 'sad': 0.23067667126963565, 'surprise': 1.1758766846289984e-15, 'neutral': 99.76691006224812} 
+		dominant_emotion: neutral 
+		age: 32.068668694213784 
+		gender: Man 
+		race: {'asian': 0.18406918970867991, 'indian': 2.01920960098505, 'black': 0.17300384351983666, 'white': 34.015971422195435, 'middle eastern': 41.19315147399902, 'latino hispanic': 22.414597868919373} 
+		dominant_race: middle eastern 
+	input/RobertDowney/9.jpeg 
+		emotion: {'angry': 9.108986481765058e-09, 'disgust': 5.166609260104198e-12, 'fear': 1.108724334564215e-07, 'happy': 99.94626641273499, 'sad': 4.187070246075564e-06, 'surprise': 6.240489369702118e-06, 'neutral': 0.053723715245723724} 
+		dominant_emotion: happy 
+		age: 39.690555752650745 
+		gender: Man 
+		race: {'asian': 31.90610408782959, 'indian': 6.078290194272995, 'black': 2.1756336092948914, 'white': 21.148642897605896, 'middle eastern': 9.914347529411316, 'latino hispanic': 28.77698540687561} 
+		dominant_race: asian 
+NataliePortman
+	input/NataliePortman/1.jpg 
+		emotion: {'angry': 1.4492188450061284e-14, 'disgust': 2.1981305845882622e-32, 'fear': 4.9135936975682207e-23, 'happy': 99.98056292533875, 'sad': 2.0237592390738232e-12, 'surprise': 2.9777273854135478e-12, 'neutral': 0.019437784794718027} 
+		dominant_emotion: happy 
+		age: 28.622244682284197 
+		gender: Woman 
+		race: {'asian': 8.751703006737444e-06, 'indian': 1.4572358963960141e-05, 'black': 2.7510446698464364e-08, 'white': 99.89057779312134, 'middle eastern': 0.0872899021487683, 'latino hispanic': 0.022110519057605416} 
+		dominant_race: white 
+	input/NataliePortman/10.jpg 
+		emotion: {'angry': 1.4293760061264038, 'disgust': 0.0011488693417049944, 'fear': 30.628085136413574, 'happy': 12.989431619644165, 'sad': 6.64171576499939, 'surprise': 0.49333181232213974, 'neutral': 47.81691133975983} 
+		dominant_emotion: neutral 
+		age: 30.523277693359358 
+		gender: Woman 
+		race: {'asian': 0.005304309161147103, 'indian': 0.003927830766770057, 'black': 0.00016883394664546358, 'white': 96.28433585166931, 'middle eastern': 1.7209531739354134, 'latino hispanic': 1.9853124395012856} 
+		dominant_race: white 
+	input/NataliePortman/11.jpg 
+		emotion: {'angry': 6.852532430379199e-09, 'disgust': 6.244197460524362e-12, 'fear': 0.001911588515213225, 'happy': 99.99755620956421, 'sad': 1.5810812215022452e-06, 'surprise': 1.7406962982136065e-06, 'neutral': 0.0005309130301611731} 
+		dominant_emotion: happy 
+		age: 30.19820695906155 
+		gender: Woman 
+		race: {'asian': 0.8460288440304305, 'indian': 2.0962025357009493, 'black': 0.2647805418315853, 'white': 57.76189909946317, 'middle eastern': 14.77892784946727, 'latino hispanic': 24.252161339054187} 
+		dominant_race: white 
+	input/NataliePortman/2.jpg 
+		emotion: {'angry': 3.1458353564123294e-08, 'disgust': 5.631759286762826e-15, 'fear': 6.781396520046842e-06, 'happy': 99.98500346958679, 'sad': 9.811208127564143e-07, 'surprise': 0.01401279608825026, 'neutral': 0.0009754712917647095} 
+		dominant_emotion: happy 
+		age: 35.84018933562012 
+		gender: Woman 
+		race: {'asian': 0.07273328089168299, 'indian': 0.5485248098045814, 'black': 0.019102509301042937, 'white': 68.27208181952454, 'middle eastern': 16.3856918948064, 'latino hispanic': 14.701862370745854} 
+		dominant_race: white 
+	input/NataliePortman/3.jpg 
+		emotion: {'angry': 4.272175207734108, 'disgust': 5.770135658167419e-06, 'fear': 5.040044337511063, 'happy': 0.00018723118273555883, 'sad': 75.79954266548157, 'surprise': 5.8012579984279e-05, 'neutral': 14.887993037700653} 
+		dominant_emotion: sad 
+		age: 29.957998086363805 
+		gender: Woman 
+		race: {'asian': 0.21996830038537385, 'indian': 0.9692923743601068, 'black': 0.03393642166343609, 'white': 58.53723040445032, 'middle eastern': 26.261653081277196, 'latino hispanic': 13.977921842212787} 
+		dominant_race: white 
+	input/NataliePortman/4.jpg 
+		emotion: {'angry': 0.0070590118411928415, 'disgust': 3.4081567429344872e-09, 'fear': 0.08543572039343417, 'happy': 0.2596663776785135, 'sad': 0.10509875137358904, 'surprise': 0.00020924694581481162, 'neutral': 99.5425283908844} 
+		dominant_emotion: neutral 
+		age: 30.001006884087435 
+		gender: Woman 
+		race: {'asian': 8.203671359049974e-05, 'indian': 0.00037936104061044685, 'black': 1.4079864483413986e-06, 'white': 97.8031578298619, 'middle eastern': 1.6685051717155968, 'latino hispanic': 0.527866634012266} 
+		dominant_race: white 
+	input/NataliePortman/5.jpg 
+		emotion: {'angry': 2.7743514950662185e-10, 'disgust': 1.783668166411876e-16, 'fear': 4.163474036020243e-11, 'happy': 99.99953508377075, 'sad': 3.982404412749413e-11, 'surprise': 8.316654656614908e-10, 'neutral': 0.0004681921836890979} 
+		dominant_emotion: happy 
+		age: 33.626531021781354 
+		gender: Woman 
+		race: {'asian': 0.024920236319303513, 'indian': 0.24767902214080095, 'black': 0.0039012003981042653, 'white': 87.1697187423706, 'middle eastern': 8.218038082122803, 'latino hispanic': 4.3357424437999725} 
+		dominant_race: white 
+	input/NataliePortman/6.jpg 
+		emotion: {'angry': 0.04378254234325141, 'disgust': 0.0005116150077810744, 'fear': 2.2186042740941048, 'happy': 0.9848466143012047, 'sad': 1.4531047083437443, 'surprise': 0.00361820675607305, 'neutral': 95.29553055763245} 
+		dominant_emotion: neutral 
+		age: 30.92626140169751 
+		gender: Woman 
+		race: {'asian': 2.377653346098869e-06, 'indian': 8.545253263281724e-07, 'black': 1.6519907082500045e-08, 'white': 99.90587831665536, 'middle eastern': 0.03803873679697671, 'latino hispanic': 0.056075071052080865} 
+		dominant_race: white 
+	input/NataliePortman/7.jpg 
+		emotion: {'angry': 8.73619958922868, 'disgust': 0.001665182737034382, 'fear': 7.020638791246558, 'happy': 0.016983842373423444, 'sad': 39.353514986811284, 'surprise': 0.17031285976986768, 'neutral': 44.70068279496636} 
+		dominant_emotion: neutral 
+		age: 30.949062037911617 
+		gender: Woman 
+		race: {'asian': 0.002938016041298397, 'indian': 0.0300634594168514, 'black': 0.0002657844106579432, 'white': 81.61312937736511, 'middle eastern': 11.376440525054932, 'latino hispanic': 6.977163255214691} 
+		dominant_race: white 
+	input/NataliePortman/8.jpg 
+		emotion: {'angry': 1.565418821284118e-06, 'disgust': 2.086318167593669e-12, 'fear': 1.1901590822829036e-05, 'happy': 98.17185987066388, 'sad': 6.1844236532146066e-06, 'surprise': 1.737477920203085, 'neutral': 0.0906488097287005} 
+		dominant_emotion: happy 
+		age: 35.78525836251436 
+		gender: Woman 
+		race: {'asian': 0.12479089200496674, 'indian': 0.11249140370637178, 'black': 0.005387576675275341, 'white': 87.29069828987122, 'middle eastern': 7.977286726236343, 'latino hispanic': 4.489345848560333} 
+		dominant_race: white 
+	input/NataliePortman/9.jpg 
+		emotion: {'angry': 1.1710438174716842e-08, 'disgust': 6.727540654721559e-15, 'fear': 1.1233006204076999e-12, 'happy': 99.97509121894836, 'sad': 3.411569082789612e-08, 'surprise': 1.5357171534446934e-06, 'neutral': 0.02491203777026385} 
+		dominant_emotion: happy 
+		age: 32.49437476980987 
+		gender: Woman 
+		race: {'asian': 0.23036401253193617, 'indian': 1.1148535646498203, 'black': 0.04722065641544759, 'white': 68.4965968132019, 'middle eastern': 17.735710740089417, 'latino hispanic': 12.375261634588242} 
+		dominant_race: white 
+JimCarrey
+	input/JimCarrey/1.jpg 
+		emotion: {'angry': 0.04051210707984865, 'disgust': 0.01027253019856289, 'fear': 0.042701096390374005, 'happy': 91.6390061378479, 'sad': 1.562474574893713, 'surprise': 0.16438226448372006, 'neutral': 6.540652364492416} 
+		dominant_emotion: happy 
+		age: 37.31726209503407 
+		gender: Man 
+		race: {'asian': 0.10364475892856717, 'indian': 0.2646068576723337, 'black': 0.023897270148154348, 'white': 83.95222425460815, 'middle eastern': 7.51250684261322, 'latino hispanic': 8.143115043640137} 
+		dominant_race: white 
+	input/JimCarrey/10.jpg 
+		emotion: {'angry': 96.85854911804199, 'disgust': 0.08059226674959064, 'fear': 0.031362660229206085, 'happy': 2.3419061675667763, 'sad': 0.5920790135860443, 'surprise': 0.00043293512135278434, 'neutral': 0.09508078801445663} 
+		dominant_emotion: angry 
+		age: 38.51410742165097 
+		gender: Man 
+		race: {'asian': 0.039432678022421896, 'indian': 0.07452928111888468, 'black': 0.002232448969152756, 'white': 92.36422777175903, 'middle eastern': 4.9470242112874985, 'latino hispanic': 2.5725528597831726} 
+		dominant_race: white 
+	input/JimCarrey/3.jpg 
+		emotion: {'angry': 2.5470148993372854e-10, 'disgust': 3.0452386063675488e-18, 'fear': 9.078015472858709e-13, 'happy': 99.99840259552002, 'sad': 4.679783470462606e-10, 'surprise': 1.1098528762687465e-07, 'neutral': 0.0015987616279744543} 
+		dominant_emotion: happy 
+		age: 26.532745237065356 
+		gender: Man 
+		race: {'asian': 8.276567356381856, 'indian': 1.8358777440117444, 'black': 0.2298229976637958, 'white': 54.69799367773495, 'middle eastern': 11.238098069316033, 'latino hispanic': 23.721642716028853} 
+		dominant_race: white 
+	input/JimCarrey/4.jpg 
+		emotion: {'angry': 0.44024394315372883, 'disgust': 0.001317419500096742, 'fear': 80.50341257513986, 'happy': 0.021357669355974083, 'sad': 13.609292556516985, 'surprise': 5.291705779738268, 'neutral': 0.13267054499382586} 
+		dominant_emotion: fear 
+		age: 41.03939409101858 
+		gender: Man 
+		race: {'asian': 6.657436490058899, 'indian': 10.072126984596252, 'black': 3.0162157490849495, 'white': 20.92246264219284, 'middle eastern': 31.547489762306213, 'latino hispanic': 27.78427004814148} 
+		dominant_race: middle eastern 
+	input/JimCarrey/5.jpg 
+		emotion: {'angry': 0.09442875724606259, 'disgust': 0.0009215681169697637, 'fear': 0.03872140308671612, 'happy': 9.409882689111393, 'sad': 0.1454398239107325, 'surprise': 0.1548564270239429, 'neutral': 90.15574992631376} 
+		dominant_emotion: neutral 
+		age: 41.38079748062868 
+		gender: Man 
+		race: {'asian': 0.7003080565482378, 'indian': 12.81808316707611, 'black': 0.4587927367538214, 'white': 17.40880459547043, 'middle eastern': 53.361064195632935, 'latino hispanic': 15.252944827079773} 
+		dominant_race: middle eastern 
+	input/JimCarrey/7.jpg 
+		emotion: {'angry': 12.91411966085434, 'disgust': 0.900436844676733, 'fear': 19.117239117622375, 'happy': 58.986467123031616, 'sad': 3.23508121073246, 'surprise': 0.5444384645670652, 'neutral': 4.302210360765457} 
+		dominant_emotion: happy 
+		age: 44.85425997476848 
+		gender: Man 
+		race: {'asian': 6.786871701478958, 'indian': 9.502394497394562, 'black': 2.052428387105465, 'white': 23.14816564321518, 'middle eastern': 21.335729956626892, 'latino hispanic': 37.17440962791443} 
+		dominant_race: latino hispanic 
+	input/JimCarrey/8.jpg 
+		emotion: {'angry': 0.008051900658756495, 'disgust': 0.000139703115564771, 'fear': 0.14569989871233702, 'happy': 82.85555839538574, 'sad': 0.14243331970646977, 'surprise': 1.4620933681726456, 'neutral': 15.386021137237549} 
+		dominant_emotion: happy 
+		age: 24.2229768770201 
+		gender: Man 
+		race: {'asian': 0.14896407956257463, 'indian': 1.4337298460304737, 'black': 0.02674547431524843, 'white': 38.46108913421631, 'middle eastern': 35.032719373703, 'latino hispanic': 24.896754324436188} 
+		dominant_race: white 
+	input/JimCarrey/9.jpg 
+		emotion: {'angry': 3.9030801504850388, 'disgust': 2.3566857354495596e-07, 'fear': 0.06562906200997531, 'happy': 0.025214048218913376, 'sad': 15.958137810230255, 'surprise': 2.0108352316583478e-06, 'neutral': 80.04794120788574} 
+		dominant_emotion: neutral 
+		age: 25.52772806468535 
+		gender: Man 
+		race: {'asian': 0.4624576307833195, 'indian': 1.2188345193862915, 'black': 0.06601685308851302, 'white': 56.31641745567322, 'middle eastern': 19.368261098861694, 'latino hispanic': 22.56801575422287} 
+		dominant_race: white 
+WillSmith
+	input/WillSmith/1.jpg 
+		emotion: {'angry': 0.11332405265420675, 'disgust': 8.441629339994705e-09, 'fear': 0.0005776360467280028, 'happy': 98.24801683425903, 'sad': 0.25621289387345314, 'surprise': 0.0010634529644448776, 'neutral': 1.3808052986860275} 
+		dominant_emotion: happy 
+		age: 40.079096698631176 
+		gender: Man 
+		race: {'asian': 5.2351871862720977e-14, 'indian': 2.5920595964762372e-11, 'black': 100.0, 'white': 1.3383843703419076e-18, 'middle eastern': 7.808506222627804e-21, 'latino hispanic': 5.934578796809066e-13} 
+		dominant_race: black 
+	input/WillSmith/2.jpg 
+		emotion: {'angry': 6.505304319113522e-06, 'disgust': 1.4086595660726463e-09, 'fear': 0.00026801925730085704, 'happy': 99.71396926474938, 'sad': 0.0023074043361374598, 'surprise': 0.04867710815214567, 'neutral': 0.2347685815297268} 
+		dominant_emotion: happy 
+		age: 27.405001424475817 
+		gender: Man 
+		race: {'asian': 4.4229470137832566e-18, 'indian': 8.032100036622046e-14, 'black': 100.0, 'white': 2.5440855097271006e-24, 'middle eastern': 6.744212812570473e-26, 'latino hispanic': 4.24843519483869e-16} 
+		dominant_race: black 
+	input/WillSmith/3.jpg 
+		emotion: {'angry': 49.280810441874216, 'disgust': 0.11493528521459875, 'fear': 2.611979717078243, 'happy': 35.150812846325294, 'sad': 3.847772914436708, 'surprise': 1.5946727207693194, 'neutral': 7.399013501523315} 
+		dominant_emotion: angry 
+		age: 27.055432158174206 
+		gender: Man 
+		race: {'asian': 1.6908355226060096e-13, 'indian': 6.46484981433465e-11, 'black': 100.0, 'white': 4.426694206581607e-18, 'middle eastern': 6.55141706595238e-19, 'latino hispanic': 1.5413692322279945e-12} 
+		dominant_race: black 
+	input/WillSmith/4.jpg 
+		emotion: {'angry': 3.0686626928400074e-05, 'disgust': 3.0568461650837264e-08, 'fear': 0.037377444095909595, 'happy': 99.557626247406, 'sad': 0.036347442073747516, 'surprise': 0.03170153358951211, 'neutral': 0.336919235996902} 
+		dominant_emotion: happy 
+		age: 30.251105808707507 
+		gender: Man 
+		race: {'asian': 9.778604141696956e-10, 'indian': 1.8438041093915558e-07, 'black': 100.0, 'white': 1.8858738584363768e-14, 'middle eastern': 3.3838175458143698e-15, 'latino hispanic': 3.825073244256849e-09} 
+		dominant_race: black 
+	input/WillSmith/5.jpg 
+		emotion: {'angry': 0.17056999495252967, 'disgust': 5.506016087508669e-07, 'fear': 0.09896667907014489, 'happy': 99.62790608406067, 'sad': 0.06869573262520134, 'surprise': 0.0034616499760886654, 'neutral': 0.030401357798837125} 
+		dominant_emotion: happy 
+		age: 38.963171057531085 
+		gender: Man 
+		race: {'asian': 1.1261834083699182e-15, 'indian': 4.9706468325042e-13, 'black': 100.0, 'white': 7.0467587822636e-21, 'middle eastern': 3.5513693593403996e-22, 'latino hispanic': 3.7380813335929474e-14} 
+		dominant_race: black 
+	input/WillSmith/6.jpg 
+		emotion: {'angry': 6.168209831791671e-08, 'disgust': 5.939499317078785e-14, 'fear': 1.905846730432259e-08, 'happy': 99.7471809387207, 'sad': 6.004561736716596e-07, 'surprise': 0.0013942165423941333, 'neutral': 0.25142491795122623} 
+		dominant_emotion: happy 
+		age: 25.817486212069518 
+		gender: Man 
+		race: {'asian': 4.775926387689158e-19, 'indian': 3.731243130730645e-14, 'black': 100.0, 'white': 1.4841323040559953e-25, 'middle eastern': 2.1443510135496844e-27, 'latino hispanic': 1.3538465085655404e-17} 
+		dominant_race: black 
+	input/WillSmith/7.jpg 
+		emotion: {'angry': 0.0002217742576249293, 'disgust': 1.171171059438647e-09, 'fear': 0.00022736344362783711, 'happy': 1.8512478098273277, 'sad': 0.007164667476899922, 'surprise': 0.021314056357368827, 'neutral': 98.1198251247406} 
+		dominant_emotion: neutral 
+		age: 24.279988496833596 
+		gender: Man 
+		race: {'asian': 3.238242464974339e-11, 'indian': 3.702680089617827e-10, 'black': 100.0, 'white': 1.8352338303166075e-17, 'middle eastern': 9.204078661659103e-20, 'latino hispanic': 1.1193366756211392e-12} 
+		dominant_race: black 
+	input/WillSmith/8.jpg 
+		emotion: {'angry': 9.193661831830013e-07, 'disgust': 5.124205533946425e-17, 'fear': 4.916288958156656e-05, 'happy': 2.63155763846612e-07, 'sad': 6.937589773770014e-05, 'surprise': 0.004686469765147194, 'neutral': 99.9951958656311} 
+		dominant_emotion: neutral 
+		age: 24.15458747141676 
+		gender: Man 
+		race: {'asian': 0.00015871443110881955, 'indian': 0.0015160497241595294, 'black': 99.99786615371704, 'white': 6.332383506446604e-08, 'middle eastern': 1.1904818277008733e-09, 'latino hispanic': 0.0004639228791347705} 
+		dominant_race: black 
+	input/WillSmith/9.jpg 
+		emotion: {'angry': 0.00015096736660780152, 'disgust': 6.016925672345014e-15, 'fear': 3.6311826878687725e-07, 'happy': 99.14600849151611, 'sad': 3.5879079263168023e-06, 'surprise': 0.19705749582499266, 'neutral': 0.6567822303622961} 
+		dominant_emotion: happy 
+		age: 39.17422887375292 
+		gender: Man 
+		race: {'asian': 1.148849216240738, 'indian': 3.4340768684057155, 'black': 92.84926738151701, 'white': 0.0686708581262549, 'middle eastern': 0.03839004327177486, 'latino hispanic': 2.460744124860272} 
+		dominant_race: black 
