@@ -7,8 +7,10 @@ DeepFace cannot analyze a lot of photos in one time.
 First, install python version 3.8 (any subversion) for your OS version.
 
 #### Install packages
-`sudo apt-get update`
-`sudo apt-get install python3-pip build-essential cmake libopenblas-dev liblapack-dev libx11-dev libgtk-3-dev python3-dev python3-pip`
+```
+sudo apt-get update
+sudo apt-get install python3-pip build-essential cmake libopenblas-dev liblapack-dev libx11-dev libgtk-3-dev python3-dev python3-pip
+```
 
 #### Install virtual environment package
 `sudo apt install virtualenv`
@@ -20,8 +22,10 @@ First, install python version 3.8 (any subversion) for your OS version.
 `. venv/bin/activate`
 
 #### Install dlib and then other libraries.
-`pip install dlib`
-`pip install -r requirements.txt`
+```
+pip install dlib
+pip install -r requirements.txt
+```
 
 ### Run project
 1. Start the virtual environment (if you haven't already).
