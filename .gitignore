@@ -1,3 +1,6 @@
 .vscode
 venv
 examples
+output/
+__pycache__/
+*.pyc

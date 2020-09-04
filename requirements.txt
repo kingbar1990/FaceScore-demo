@@ -1,0 +1,4 @@
+opencv-python==4.4.0.42
+pillow==7.2.0
+autocrop==1.0.2
+deepface==0.0.35

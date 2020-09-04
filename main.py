@@ -1,4 +1,5 @@
 import sys
+import os
 
 from os import listdir
 
@@ -32,10 +33,14 @@ if __name__ == "__main__":
         # Analize valid faces
         face_info = DeepFace.analyze(person_images)
 
+        # Generate report data
         d = dict(zip(face_info.keys(), person_images))
-
         for face in face_info:  # Can't use dict.values() because values size is too big.
             report_data[person_name][d[face]] = face_info[face]
+
+    # Creating reports
+    if not os.path.exists("output"):
+        os.makedirs("output")
 
     create_report(report_data)
     create_full_report(report_data)
